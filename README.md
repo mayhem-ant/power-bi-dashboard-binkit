@@ -35,4 +35,16 @@ This project follows a structured 11-step methodology:
 - Update Frequency: Static dataset for analysis demonstration
 - Data Quality: Pre-cleaned and validated
 
-Note: This dashboard uses sample data for demonstration purposes. Actual business data has been anonymized to protect confidentiality.
+## 🔒 Privacy & Ethics
+This project uses publicly available sample data for educational and portfolio demonstration purposes. No confidential or proprietary business information is included.
+
+## 🎓 Learning Outcomes
+This project demonstrates proficiency in:
+
+Business requirement analysis and KPI definition
+Data modeling and relationship management
+Power BI visualization best practices
+Interactive dashboard design
+DAX formula implementation
+Data storytelling and insight generation
+End-to-end BI project execution
