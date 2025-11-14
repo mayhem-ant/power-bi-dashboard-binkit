@@ -3,19 +3,20 @@ Blinkit needs deeper insights into sales performance to drive strategic decision
 
 - Limited visibility into revenue drivers across products and outlets
 - No correlation between customer ratings and sales
-Insufficient insights for inventory optimization
-Unclear outlet performance patterns
-Need for data-driven decision making
+- Insufficient insights for inventory optimization
+- Unclear outlet performance patterns
+- Need for data-driven decision making
 
-Goal: Develop a comprehensive Power BI dashboard for real-time visibility, performance identification, and strategic decision support.
+## Goal:
+Develop a comprehensive Power BI dashboard for real-time visibility, performance identification, and strategic decision support.
+
 📊 Key Performance Indicators (KPIs)
+- Total Sales - Overall revenue and business health indicator
+- Average Sales - Revenue per transaction for pricing strategies
+- Number of Items - Product portfolio breadth and inventory turnover
+- Average Rating - Customer satisfaction and quality perception
 
-Total Sales - Overall revenue and business health indicator
-Average Sales - Revenue per transaction for pricing strategies
-Number of Items - Product portfolio breadth and inventory turnover
-Average Rating - Customer satisfaction and quality perception
-
-📈 Required Visualizations
+## 📈 Required Visualizations
 1. Total Sales by Fat Content (Donut Chart)
 
 Compare Low Fat vs Regular product performance
