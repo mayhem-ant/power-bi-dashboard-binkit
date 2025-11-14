@@ -1,4 +1,4 @@
-🎯 Problem Statement
+## 🎯 Problem Statement
 Blinkit needs deeper insights into sales performance to drive strategic decisions. Current challenges include:
 
 - Limited visibility into revenue drivers across products and outlets
