@@ -22,6 +22,7 @@ This project follows a structured 11-step methodology:
 11. Insights Generation - Extract actionable business insights
 
 ## Dashboard
+[Dashboard](dashboard/dashboard.png)
 
 
 ## 📊 Dashboard Features
