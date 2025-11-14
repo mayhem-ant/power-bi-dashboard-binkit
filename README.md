@@ -21,6 +21,35 @@ This project follows a structured 11-step methodology:
 10. Dashboard/Report Development - Integrate all components
 11. Insights Generation - Extract actionable business insights
 
+## 📊 Dashboard Features
+** Sales Performance Analysis
+
+- Total sales overview with KPI cards
+- Average transaction value tracking
+- Item count and inventory metrics
+
+ ** Product Category Insights
+
+- Sales breakdown by 16 product categories
+- Top performers: Fruits & Vegetables, Snacks, Household items
+- Fat content preference analysis (Low Fat vs Regular)
+
+** Outlet Performance Metrics
+
+- Performance by outlet size (Small, Medium, High)
+- Geographic distribution across Tier 1, 2, and 3 locations
+- Outlet establishment timeline (2010-2020)
+- Comparative analysis across outlet types
+
+** Interactive Filtering
+
+- Dynamic slicers for outlet location type
+- Outlet size filters
+- Item type selection
+- Cross-filtering across all visualizations
+
+
+
 ## 🛠️ Technologies Used
 
 - Power BI Desktop - Dashboard development and visualization
