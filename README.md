@@ -4,7 +4,7 @@ Project Objective:
 Conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
 ## Business Requirement 
-[Problem statement](./path/to/file.md)
+[Problem statement](docs/business_requirements.md)
 
 ## 🔄 Project Workflow
 This project follows a structured 11-step methodology:
