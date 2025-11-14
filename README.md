@@ -28,6 +28,37 @@ This project follows a structured 11-step methodology:
 - DAX (Data Analysis Expressions) - Calculated measures and KPIs
 - Excel/CSV - Data source format
 
+## Project Structure
+  blinkit-dashboard/
+│
+├── dashboard/
+│   ├── blinkit_analysis.pbix              # Power BI dashboard file
+│   └── dashboard_export.pdf               # Static PDF version
+│
+├── data/
+│   ├── raw/                               # Original data files
+│   │   └── blinkit_sales_data.csv
+│   └── sample/                            # Sample data for demo
+│       └── sample_data.csv
+│
+├── images/                                # Dashboard screenshots
+│   ├── dashboard_preview.png
+│   ├── full_dashboard.png
+│   ├── sales_overview.png
+│   ├── product_analysis.png
+│   ├── outlet_performance.png
+│   └── workflow_diagram.png
+│
+├── docs/                                  # Documentation
+│   ├── business_requirements.md           # Detailed requirements
+│   ├── data_dictionary.md                 # Data field descriptions
+│   ├── insights_report.md                 # Analytical findings
+│   └── user_guide.md                      # Dashboard usage guide
+│
+├── .gitignore                             # Git ignore rules
+├── LICENSE                                # MIT License
+└── README.md                              # Project documentation
+
   ## 📝 Data Notes
 
 - Data Period: 2010-2020
