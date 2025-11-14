@@ -28,8 +28,9 @@ This project follows a structured 11-step methodology:
 - DAX (Data Analysis Expressions) - Calculated measures and KPIs
 - Excel/CSV - Data source format
 
-## Project Structure
-  blinkit-dashboard/
+## 📂 Project Structure
+```
+blinkit-dashboard/
 │
 ├── dashboard/
 │   ├── blinkit_analysis.pbix              # Power BI dashboard file
@@ -58,6 +59,7 @@ This project follows a structured 11-step methodology:
 ├── .gitignore                             # Git ignore rules
 ├── LICENSE                                # MIT License
 └── README.md                              # Project documentation
+```
 
   ## 📝 Data Notes
 
