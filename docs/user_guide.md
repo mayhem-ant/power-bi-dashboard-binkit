@@ -8,7 +8,7 @@ Windows 10 or later
 
 ****1. Clone this repository:****
 
-bash   git clone https://github.com/yourusername/blinkit-dashboard.git
+- bash   git clone [https://github.com/mayhem-ant/blinkit-dashboard.git](https://github.com/mayhem-ant/power-bi-dashboard-binkit.git)
 
 ****2. Navigate to the dashboard/ folder****
 ****Open blinkit_analysis.pbix in Power BI Desktop****
@@ -19,9 +19,7 @@ bash   git clone https://github.com/yourusername/blinkit-dashboard.git
 - Apply changes and refresh
 
 
-****Interact with filters and slicers to explore insights****
-
-Dashboard Navigation
+****3. Interact with filters and slicers to explore insights****
 
 - Use Outlet Location Type slicer to filter by location tiers
 - Select Outlet Size to analyze size-specific performance
