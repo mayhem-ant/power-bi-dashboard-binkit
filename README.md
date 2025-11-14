@@ -20,3 +20,19 @@ This project follows a structured 11-step methodology:
 9. Charts Development and Formatting - Build visualizations per requirements
 10. Dashboard/Report Development - Integrate all components
 11. Insights Generation - Extract actionable business insights
+
+## 🛠️ Technologies Used
+
+- Power BI Desktop - Dashboard development and visualization
+- Power Query - Data transformation and ETL
+- DAX (Data Analysis Expressions) - Calculated measures and KPIs
+- Excel/CSV - Data source format
+
+  ## 📝 Data Notes
+
+- Data Period: 2010-2020
+- Data Source: Blinkit sales records (sample/anonymized data)
+- Update Frequency: Static dataset for analysis demonstration
+- Data Quality: Pre-cleaned and validated
+
+Note: This dashboard uses sample data for demonstration purposes. Actual business data has been anonymized to protect confidentiality.
