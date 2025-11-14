@@ -41,10 +41,10 @@ This project uses publicly available sample data for educational and portfolio d
 ## 🎓 Learning Outcomes
 This project demonstrates proficiency in:
 
-Business requirement analysis and KPI definition
-Data modeling and relationship management
-Power BI visualization best practices
-Interactive dashboard design
-DAX formula implementation
-Data storytelling and insight generation
-End-to-end BI project execution
+- Business requirement analysis and KPI definition
+- Data modeling and relationship management
+- Power BI visualization best practices
+- Interactive dashboard design
+- DAX formula implementation
+- Data storytelling and insight generation
+- End-to-end BI project execution
