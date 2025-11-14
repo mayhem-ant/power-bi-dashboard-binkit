@@ -1,2 +1,4 @@
 # power-bi-dashboard-binkit
-Interactive Power BI dashboard analyzing Blinkit's sales performance across $1.20M in transactions. Features comprehensive analysis of outlet performance, product categories, customer ratings, and sales trends with dynamic filtering and multi-dimensional insights.
+This Power BI project delivers comprehensive sales analytics for Blinkit (India's last-minute delivery app), enabling data-driven decision-making through interactive visualizations and key performance indicators.
+Project Objective:
+Conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
