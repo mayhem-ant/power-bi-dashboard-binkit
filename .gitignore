@@ -1,0 +1,40 @@
+# Power BI Desktop temporary files
+*.pbix.tmp
+~$*.pbix
+*_backup_*.pbix
+*.pbix.bak
+
+# Power BI Cache files
+*.mez
+AppData/
+LocalState/
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python (if using Python scripts)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Logs
+*.log
+
+# Compressed files
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Data (if sensitive)
+data/raw/
+data/confidential/
